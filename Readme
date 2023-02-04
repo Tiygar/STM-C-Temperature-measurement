@@ -1,1 +1,2 @@
 i get the temperature by measuring voltage from a temperature measurement component on the breadboard and using the SSU function i type the first digit of the temperature on a 7 segment display.
+The code is in the txt file, if you want to make it work create a new project on STMCUBE32 IDE and change the core and ioc files with the ones i provided.
